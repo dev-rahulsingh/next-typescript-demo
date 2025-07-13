@@ -19,9 +19,9 @@ function HeroSection() {
           journey today. Whether you're a beginner or looking to refine your
           skills, join us to unlock your true potential.
         </p>
-        <div className="mt-4">
+        <div className="mt-4 ">
           <Link href={"/courses"}>
-            <Button duration={1500} className="bg-black">
+            <Button duration={1500} className="bg-black cursor-pointer">
               Explore courses
             </Button>
           </Link>
